@@ -81,15 +81,14 @@ params:
              I work in a pharmaceutical company and have a keen interest in
              leveraging RWD to support clinical development and market access.
   socialIcons:
+    - name: email
+      url: "mailto:dgwangh@yahoo.com"
     - name: twitter
       url: "https://twitter.com/"
     - name: stackoverflow
       url: "https://stackoverflow.com"
     # - name: github
     #   url: "https://github.com/wangdegang"
-    - name: email
-      url: "mailto:dgwangh@yahoo.com"
-
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
