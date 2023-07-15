@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Degang Wang</title>
-    <link>https://wangdegang.github.io/</link>
-    <description>Recent content on Degang Wang</description>
+    <title>summary on Degang Wang</title>
+    <link>https://wangdegang.github.io/tags/summary/</link>
+    <description>Recent content in summary on Degang Wang</description>
     <image>
       <title>Degang Wang</title>
       <url>https://wangdegang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,16 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Jul 2023 15:58:37 -0400</lastBuildDate><atom:link href="https://wangdegang.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Second Post</title>
-      <link>https://wangdegang.github.io/posts/2023-07-10-2nd/</link>
-      <pubDate>Mon, 10 Jul 2023 15:58:37 -0400</pubDate>
-      
-      <guid>https://wangdegang.github.io/posts/2023-07-10-2nd/</guid>
-      <description>Another post.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 10 Jul 2023 15:58:25 -0400</lastBuildDate><atom:link href="https://wangdegang.github.io/tags/summary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Summary of RWD Sources</title>
       <link>https://wangdegang.github.io/posts/2023-07-10-sum_rwd/</link>
@@ -30,8 +21,6 @@
       <description>RWE is assuming a growing significance in regulatory submissions and reimbursement negotiations, making the availability of fit-for-purpose RWD sources crucial for generating robust evidence to support product development, market access, and post-approval surveillance. As data technology continues to advance, the RWD market has witnessed an influx of new entities. In this regard, I have compiled a summary of RWD/service providers that have come to my attention.
 Company Data Name Data Type Date Source Country Therapeutic Area Race/Ethnicity Death Lab NPI Adelphi RWE Health Survey Physician survey; chart abstraction; patient reported outcomes Multi Disease specific Yes AHRQ Social Determinants SDoH 40+ data sources US Yes AllStrips EMR Patient medical records for rare conditions US, Canada Rare Yes Yes Amplity Health RealHealth Data Physician Notes over 50 million medical transcription/physician note records US Yes Yes Yes Anlitiks Claims all-payer claims database, Medicaid claims, ~80% of US claims almost real time US Yes Arcadia EMR linked to Claims integrated claims and EMR from various integrated datahealth system US Yes Yes Yes AHRF Area Health Resources File SoDH US Yes </description>
     </item>
-    
-    
     
   </channel>
 </rss>
