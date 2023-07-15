@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Jul 2023 15:58:25 -0400</lastBuildDate><atom:link href="https://wangdegang.github.io/tags/rwd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jul 2023 15:58:37 -0400</lastBuildDate><atom:link href="https://wangdegang.github.io/tags/rwd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RWD Statistical Methods</title>
+      <link>https://wangdegang.github.io/posts/2023-07-14-stat_rwd/</link>
+      <pubDate>Fri, 14 Jul 2023 15:58:37 -0400</pubDate>
+      
+      <guid>https://wangdegang.github.io/posts/2023-07-14-stat_rwd/</guid>
+      <description>Common Statistical Methods in RWD Analysis</description>
+    </item>
+    
     <item>
       <title>Summary of RWD Sources</title>
       <link>https://wangdegang.github.io/posts/2023-07-10-sum_rwd/</link>
