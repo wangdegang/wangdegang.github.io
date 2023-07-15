@@ -18,7 +18,8 @@
       <pubDate>Fri, 14 Jul 2023 15:58:37 -0400</pubDate>
       
       <guid>https://wangdegang.github.io/posts/2023-07-14-stat_rwd/</guid>
-      <description>Common Statistical Methods in RWD Analysis</description>
+      <description>Common Statistical Methods in RWD Analysis Regression methods may not be possible Lack of Covariate Information: Regression methods rely on the availability of relevant covariate information to adjust for confounding variables. If important covariates are missing or poorly measured in the observational data, regression methods may not be able to adequately control for confounding.
+Nonlinearity or Complex Relationships: Regression models assume linear relationships between the independent variables and the outcome. In observational studies, the relationships between variables may be nonlinear or complex, making it difficult to capture these relationships accurately using regression models.</description>
     </item>
     
   </channel>
