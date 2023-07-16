@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Degang Wang</title>
+    <link>https://wangdegang.github.io/tags/python/</link>
+    <description>Recent content in Python on Degang Wang</description>
+    <image>
+      <title>Degang Wang</title>
+      <url>https://wangdegang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://wangdegang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Jul 2023 23:57:12 -0400</lastBuildDate><atom:link href="https://wangdegang.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database Connection in Analytics Tools</title>
+      <link>https://wangdegang.github.io/posts/2023-07-14-db/</link>
+      <pubDate>Fri, 14 Jul 2023 23:57:12 -0400</pubDate>
+      
+      <guid>https://wangdegang.github.io/posts/2023-07-14-db/</guid>
+      <description>RWD usually rests in the data lake. There is a query engine which acts as computing factory to process the data in the data lake and return the results. Analytics tools, such as SAS, R, and Python, connect to the query engine through ODBC or JDBC so a user can query the data. Here are code templates in these analytics tools so a user can connect to the query engine, submit SQL code, and bring the results to work sessions in the tools.</description>
+    </item>
+    
+  </channel>
+</rss>
