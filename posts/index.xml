@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Jul 2023 19:34:05 -0400</lastBuildDate><atom:link href="https://wangdegang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jul 2023 19:51:12 -0400</lastBuildDate><atom:link href="https://wangdegang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clinical Development using RWD</title>
+      <link>https://wangdegang.github.io/posts/2023-07-22-cd/</link>
+      <pubDate>Sat, 22 Jul 2023 19:51:12 -0400</pubDate>
+      
+      <guid>https://wangdegang.github.io/posts/2023-07-22-cd/</guid>
+      <description>How to RWD support Clinical Development RWD refers to data collected outside of conventional randomized controlled trials, usually from health records, insurance claims, disease registries and patient-reported outcomes. Here&amp;rsquo;s how it can be used to support clinical development in the pharma industry:
+Preclinical Development: RWD can help identify potential indications for new drugs based on real-world patient conditions and treatment outcomes. Clinical Trial Design: RWD can inform patient selection criteria, identify feasible study endpoints, predict trial length and recruitment rates, and design more meaningful comparative effectiveness studies.</description>
+    </item>
+    
     <item>
       <title>Market Access</title>
       <link>https://wangdegang.github.io/posts/2023-07-22-ma/</link>

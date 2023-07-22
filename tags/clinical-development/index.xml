@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>clinical development on Degang Wang</title>
+    <link>https://wangdegang.github.io/tags/clinical-development/</link>
+    <description>Recent content in clinical development on Degang Wang</description>
+    <image>
+      <title>Degang Wang</title>
+      <url>https://wangdegang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://wangdegang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Jul 2023 19:51:12 -0400</lastBuildDate><atom:link href="https://wangdegang.github.io/tags/clinical-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clinical Development using RWD</title>
+      <link>https://wangdegang.github.io/posts/2023-07-22-cd/</link>
+      <pubDate>Sat, 22 Jul 2023 19:51:12 -0400</pubDate>
+      
+      <guid>https://wangdegang.github.io/posts/2023-07-22-cd/</guid>
+      <description>How to RWD support Clinical Development RWD refers to data collected outside of conventional randomized controlled trials, usually from health records, insurance claims, disease registries and patient-reported outcomes. Here&amp;rsquo;s how it can be used to support clinical development in the pharma industry:
+Preclinical Development: RWD can help identify potential indications for new drugs based on real-world patient conditions and treatment outcomes. Clinical Trial Design: RWD can inform patient selection criteria, identify feasible study endpoints, predict trial length and recruitment rates, and design more meaningful comparative effectiveness studies.</description>
+    </item>
+    
+  </channel>
+</rss>
