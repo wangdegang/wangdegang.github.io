@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Jul 2023 23:57:12 -0400</lastBuildDate><atom:link href="https://wangdegang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jul 2023 19:18:33 -0400</lastBuildDate><atom:link href="https://wangdegang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>evaluation</title>
+      <link>https://wangdegang.github.io/tags/evaluation/</link>
+      <pubDate>Sat, 22 Jul 2023 19:18:33 -0400</pubDate>
+      
+      <guid>https://wangdegang.github.io/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guideline</title>
+      <link>https://wangdegang.github.io/tags/guideline/</link>
+      <pubDate>Sat, 22 Jul 2023 19:18:33 -0400</pubDate>
+      
+      <guid>https://wangdegang.github.io/tags/guideline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RWD</title>
+      <link>https://wangdegang.github.io/tags/rwd/</link>
+      <pubDate>Sat, 22 Jul 2023 19:18:33 -0400</pubDate>
+      
+      <guid>https://wangdegang.github.io/tags/rwd/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>connection</title>
       <link>https://wangdegang.github.io/tags/connection/</link>
@@ -90,15 +117,6 @@
       <pubDate>Fri, 14 Jul 2023 15:58:37 -0400</pubDate>
       
       <guid>https://wangdegang.github.io/tags/propensity-score/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RWD</title>
-      <link>https://wangdegang.github.io/tags/rwd/</link>
-      <pubDate>Fri, 14 Jul 2023 15:58:37 -0400</pubDate>
-      
-      <guid>https://wangdegang.github.io/tags/rwd/</guid>
       <description></description>
     </item>
     

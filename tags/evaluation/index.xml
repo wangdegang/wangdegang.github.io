@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>evaluation on Degang Wang</title>
+    <link>https://wangdegang.github.io/tags/evaluation/</link>
+    <description>Recent content in evaluation on Degang Wang</description>
+    <image>
+      <title>Degang Wang</title>
+      <url>https://wangdegang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://wangdegang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Jul 2023 19:18:33 -0400</lastBuildDate><atom:link href="https://wangdegang.github.io/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RWD Evaluation</title>
+      <link>https://wangdegang.github.io/posts/2023-07-22-rwd_eval/</link>
+      <pubDate>Sat, 22 Jul 2023 19:18:33 -0400</pubDate>
+      
+      <guid>https://wangdegang.github.io/posts/2023-07-22-rwd_eval/</guid>
+      <description>General Guidelines for Choosing RWD: Purpose: Define the research question and the outcomes of interest. Choose a data source that aligns with the research purpose and objectives.
+Data quality: Assess the quality, completeness, and accuracy of the data. Evaluate the data source based on the completeness of patient information, the length of follow-up, and the consistency of the data.
+Sample size: Ensure the data source is of sufficient size to provide adequate statistical power to answer the research question.</description>
+    </item>
+    
+  </channel>
+</rss>
